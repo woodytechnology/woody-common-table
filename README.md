@@ -19,23 +19,19 @@ short description + sample image(png/gif/mp4)
 - [Contributors](#contributors)
 - [License](#license)
 
-## Introduction
+## 介绍
 
-If there is no more words to write, this section can be deleted.
-
-[⬆ Back to Top](#table-of-contents)
-
-## Features
+通用的 Table 管理组件,旨在通过简单的配置直接实现针对表的全部操作.
 
 [⬆ Back to Top](#table-of-contents)
 
-## Links
+## 文档
 
-- [docs](https://woody.vip.github.io/woody-common-table/)
+- [使用文档](./docs/basic.md)
 
 [⬆ Back to Top](#table-of-contents)
 
-## Install
+## 安装
 
 [⬆ Back to Top](#table-of-contents)
 
